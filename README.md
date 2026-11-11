@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Jonathan%20Rio%20W&fontSize=50&fontAlignY=38&desc=Multi-Class%20Full-Stack%20%26%20Mobile%20Engineer%20%7C%20Level%20Up%20Everyday&descAlignY=62&descAlign=50" width="100%" alt="Jonathan Rio W Banner" />
+  <!-- Resilient Self-Hosted Arcade SVG Banner (Zero Cold-Start / 0ms Latency) -->
+  <img src="./assets/banner.svg" width="100%" alt="Jonathan Rio W - Full-Stack Architect & Mobile Engineer" />
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Dynamic Typing Subtitle (Fit to Width, No Truncation) -->
   <a href="https://github.com/JoRioW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=F7AD3A&center=true&vCenter=true&width=620&lines=Class%3A+Multi-Class+Full-Stack+%26+Mobile+Engineer;Main+Realms%3A+Laravel%2FBlade+%E2%80%A2+Spring+Cloud+%E2%80%A2+Android;Active+Quest%3A+Shipping+Enterprise+Suites+%26+Mobile+Apps;47%2B+Repositories+Crafted+%E2%80%A2+Leveling+Up+Everyday..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=F7AD3A&center=true&vCenter=true&width=720&lines=%E2%9A%94%EF%B8%8F+Class%3A+Multi-Class+Full-Stack+%26+Mobile+Engineer;%F0%9F%9B%A1%EF%B8%8F+Arsenal%3A+Laravel%2FBlade+%E2%80%A2+Spring+Cloud+%E2%80%A2+Android;%F0%9F%9A%80+Active+Quests%3A+Enterprise+ERP+%E2%80%A2+POS+%E2%80%A2+Mobile+Apps;%E2%9A%A1+Rank%3A+47%2B+Repositories+Crafted+%E2%80%A2+Leveling+Up" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br/>
 
-  <!-- Achievement Badges (RPG Milestones) -->
+  <!-- Clean Aligned Badges -->
   <a href="https://github.com/JoRioW">
-    <img src="https://img.shields.io/badge/Rank-47%2B%20Repos%20Crafted-F7AD3A?style=for-the-badge&logo=github&logoColor=black" alt="Repos Crafted" />
+    <img src="https://img.shields.io/badge/Rank-47%2B%20Repos%20Crafted-F7AD3A?style=for-the-badge&logo=github&logoColor=black" alt="Repos" />
   </a>
   &nbsp;
   <a href="https://github.com/JoRioW">
@@ -20,168 +20,91 @@
   </a>
   &nbsp;
   <a href="https://github.com/JoRioW">
-    <img src="https://img.shields.io/badge/Core%20Guild-Enterprise%20Laravel%20%7C%20Spring%20%7C%20Android-FE428E?style=for-the-badge&logo=codepen&logoColor=white" alt="Guild" />
+    <img src="https://img.shields.io/badge/Focus-Enterprise%20%7C%20Mobile-FE428E?style=for-the-badge&logo=codepen&logoColor=white" alt="Focus" />
   </a>
 
 </div>
 
 <br/>
 
----
+<!-- ================= 1-LAYAR BENTO GRID (SINGLE VIEWPORT) ================= -->
+<table>
+  <tr>
+    <!-- BENTO KIRI: Character HUD & Equipped Arsenal (50% Width) -->
+    <td width="50%" valign="top">
 
-### 📜 Character Status Sheet (HUD)
+### 📜 Character Status Sheet
 
 ```yaml
-🛡️ Adventurer : Jonathan Rio W (@JoRioW)
-⚔️ Class      : Multi-Class Full-Stack Architect & Mobile Engineer
-⚡ Level      : 47+ Repositories Explored & Shipped
-🎒 Primary    : PHP (Laravel / Blade) • Java (Spring Cloud & Android) • Kotlin
-🏹 Cross-Deck : Dart (Flutter) • TypeScript / JS (React & Node.js) • Python
-💾 Datastores : MySQL • MongoDB
-✨ Passives   : Clean Architecture • High Shipping Velocity • Enterprise Resilience
-📍 Realm      : Indonesia
+Player   : Jonathan Rio W (@JoRioW)
+Class    : Multi-Class Full-Stack & Mobile Engineer
+Level    : 47+ Repositories Crafted ⚡
+Primary  : Laravel (Blade/PHP) • Java (Spring/Android)
+Mobile   : Kotlin • Dart (Flutter)
+Stack    : TypeScript/JS • React • MySQL • MongoDB
+Passives : Clean Architecture • High Shipping Velocity
 ```
 
----
+<br/>
 
-### ⚔️ Class Specializations & Skill Trees
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🛡️ Enterprise Web Architect</h4>
-      <p><i>Primary Class</i></p>
-      <ul>
-        <li><b>Stack:</b> PHP, Laravel, Blade, MySQL, Tailwind CSS</li>
-        <li><b>Focus:</b> Multi-tenant internal systems, financial management, retail POS, & enterprise workflows.</li>
-        <li><b>Active Realms:</b> <code>UnityWork-Suite</code>, <code>Zenit-Finance</code>, <code>aplication-Casiran</code>, <code>Schedulix</code></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📱 Mobile Vanguard</h4>
-      <p><i>Specialist Class</i></p>
-      <ul>
-        <li><b>Stack:</b> Kotlin, Java, Android Studio, Dart, Flutter</li>
-        <li><b>Focus:</b> Native Android engineering, hardware integrations, intuitive UI/UX, & cross-platform apps.</li>
-        <li><b>Active Realms:</b> <code>Rentalin</code>, <code>Parental-Control-App</code>, <code>ChronosPlan</code>, <code>FoodApp</code></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Distributed Systems & Experiments</h4>
-      <p><i>Artisan Class</i></p>
-      <ul>
-        <li><b>Stack:</b> Java Spring Cloud, TypeScript, MERN, Python</li>
-        <li><b>Focus:</b> Decoupled microservices architecture, secure payment gateways, & data algorithms.</li>
-        <li><b>Active Realms:</b> <code>auth-service</code>, <code>product-service</code>, <code>payment-gateway-mern</code>, <code>CosineSimilarity</code></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎒 Equipment & Inventory (Tech Arsenal)
+### 🎒 Equipped Arsenal (Tech Stack)
 
 <div align="center">
-
-  <p><b>⚔️ Primary Weapons (Languages):</b></p>
-  <img src="https://skillicons.dev/icons?i=php,java,kotlin,dart,js,ts,python,html,css&theme=dark" alt="Languages" />
+  <p><b>⚔️ Languages & Core:</b></p>
+  <img src="https://skillicons.dev/icons?i=php,java,kotlin,dart,ts,js,python,html,css&theme=dark" alt="Languages" />
   <br/><br/>
-
-  <p><b>🛡️ Armor & Frameworks:</b></p>
-  <img src="https://skillicons.dev/icons?i=laravel,spring,androidstudio,flutter,react,nodejs,express&theme=dark" alt="Frameworks" />
-  <br/><br/>
-
-  <p><b>🧰 Tools, Databases & Forge:</b></p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,idea,gradle&theme=dark" alt="Tools & DBs" />
-
+  <p><b>🛡️ Frameworks & Forge:</b></p>
+  <img src="https://skillicons.dev/icons?i=laravel,spring,androidstudio,flutter,react,nodejs,mysql,mongodb,git,postman&perline=5&theme=dark" alt="Frameworks" />
 </div>
 
----
-
-### 🗺️ Featured Quests & Battle Highlights
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 UnityWork Suite & Zenit Finance</h4>
-      <p><b>Class:</b> Enterprise ERP & Corporate Finance Engine</p>
-      <p>Sistem web internal perusahaan komprehensif untuk tata kelola operasional terintegrasi, manajemen anggaran, dan pelaporan keuangan real-time.</p>
-      <p><i>Tech: PHP • Laravel • Blade • MySQL • Tailwind CSS</i></p>
     </td>
+
+    <!-- BENTO KANAN: Active Campaigns & Snake Mini-Game (50% Width) -->
     <td width="50%" valign="top">
-      <h4>🛒 Casiran POS Engine</h4>
-      <p><b>Class:</b> Retail & Multi-Store Point-of-Sale</p>
-      <p>Aplikasi kasir modular yang fleksibel untuk berbagai lini ritel, dilengkapi manajemen inventaris stok, multi-user role, dan rekap transaksi cepat.</p>
-      <p><i>Tech: PHP • Laravel • MySQL • RESTful APIs</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚗 Rentalin & Mobile Apps</h4>
-      <p><b>Class:</b> Native Android Applications</p>
-      <p>Aplikasi rental kendaraan native Android dengan booking flow interaktif, serta utilitas seperti <i>Parental-Control-App</i> dan <i>FoodApp</i>.</p>
-      <p><i>Tech: Kotlin • Java • Android Studio • Gradle</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💳 Payment Gateway & Microservices</h4>
-      <p><b>Class:</b> Distributed Systems & Secure Transactions</p>
-      <p>Integrasi gateway pembayaran berbasis MERN (TypeScript) dan klaster microservices terpisah dengan <i>Spring Cloud Config</i> & <i>Auth Service</i>.</p>
-      <p><i>Tech: TypeScript • React • Node.js • Java Spring Cloud</i></p>
-    </td>
-  </tr>
-</table>
 
----
+### 🗺️ Active Campaigns & Proven Builds
 
-### 📊 Battle Metrics & Coding Power
+- 🏢 **[UnityWork Suite & Zenit Finance](https://github.com/JoRioW)**  
+  *Enterprise ERP & Financial Engine (Laravel, Blade, MySQL)*
+- 🛒 **[Casiran POS Platform](https://github.com/JoRioW)**  
+  *Multi-Store Retail & Point-of-Sale Engine (PHP, MySQL, APIs)*
+- 🚗 **[Rentalin & Parental-Control](https://github.com/JoRioW/Rentalin)**  
+  *Native Android Mobile Applications (Java, Kotlin, Android Studio)*
+- 💳 **[Payment Gateway & Microservices](https://github.com/JoRioW)**  
+  *MERN Payment Processing & Java Spring Cloud Services*
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoRioW&show_icons=true&theme=radical&hide_border=true&title_color=f7ad3a&text_color=ffffff&icon_color=00ffc4&bg_color=0d1117" alt="JoRioW GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoRioW&layout=compact&theme=radical&hide_border=true&title_color=f7ad3a&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<br/>
 
-  <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=JoRioW&theme=radical&hide_border=true&stroke=00ffc4&background=0d1117&ring=f7ad3a&fire=f7ad3a" alt="Streak Stats" />
-</div>
-
----
-
-### 🐍 Retro Mini-Game: Contribution Snake Eater
+### 🎮 Contribution Snake Eater
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoRioW/JoRioW/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoRioW/JoRioW/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/JoRioW/JoRioW/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/JoRioW/JoRioW/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-  <p><sub><i>Automated daily via GitHub Actions • Eating commits one green block at a time 🎮</i></sub></p>
-</div>
-
----
-
-### 📡 Guild Comm Links (Connect With Me)
-
-<div align="center">
-  <a href="mailto:rio.wicaksono56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rio.wicaksono56%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/JoRioW">
-    <img src="https://img.shields.io/badge/GitHub-JoRioW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
 </div>
 
 <br/>
 
+### 📊 Battle Streak & Guild Links
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=31,21,11,1&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://streak-stats.demolab.com/?user=JoRioW&theme=radical&hide_border=true&stroke=00ffc4&background=0d1117&ring=f7ad3a&fire=f7ad3a" width="90%" alt="Streak" />
+  <br/><br/>
+  <a href="mailto:rio.wicaksono56@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rio.wicaksono56%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/JoRioW">
+    <img src="https://img.shields.io/badge/GitHub-JoRioW-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <sub><i>Crafted with precision • 1-Screen Gamified Bento HUD • Updated Daily ⚡</i></sub>
 </div>
